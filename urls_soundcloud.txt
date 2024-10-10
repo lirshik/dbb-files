@@ -1,0 +1,8 @@
+*.soundcloud.com
+soundcloud.com
+api-v2.soundcloud.com
+dwt.soundcloud.com
+api-auth.soundcloud.com
+velvetcake.soundcloud.com
+*.soundcloud.cloud
+assets.web.soundcloud.cloud
